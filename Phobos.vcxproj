@@ -40,6 +40,7 @@
     <ClCompile Include="src\Ext\WeaponType\Body.cpp" />
     <ClCompile Include="src\Ext\WeaponType\Hooks.cpp" />
     <ClCompile Include="src\Ext\WeaponType\Hooks.DiskLaserRadius.cpp" />
+    <ClCompile Include="src\Misc\FOW\FOW.cpp" />
     <ClCompile Include="src\Misc\CaptureManager.cpp" />
     <ClCompile Include="src\Misc\Hooks.Blowfish.cpp" />
     <ClCompile Include="src\Misc\PlaceHolders.cpp" />
@@ -92,6 +93,7 @@
     <ClInclude Include="src\Ext\WeaponType\Body.h" />
     <ClInclude Include="src\Misc\CaptureManager.h" />
     <ClInclude Include="src\Misc\ExtendedToolTips.h" />
+    <ClInclude Include="src\Misc\FOW\FOW.h" />
     <ClInclude Include="src\Misc\Savegame.h" />
     <ClInclude Include="src\Misc\SavegameDef.h" />
     <ClInclude Include="src\Misc\Shield.h" />
